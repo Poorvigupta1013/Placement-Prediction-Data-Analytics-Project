@@ -10,7 +10,7 @@ This project focuses on analyzing and predicting **student placements** using a 
 
 -<a href= "https://github.com/Poorvigupta1013/Placement-Prediction-Data-Analytics-Project/commit/98fa571d40bb35ca193227da5ccfce19f023bbeb">Dataset</a>
 
-**Key Features**:
+## Key Features:
 - `IQ`: Student's IQ score  
 - `Prev_Sem_Result`: Previous semester results  
 - `CGPA`: Final CGPA  
@@ -35,10 +35,10 @@ This project focuses on analyzing and predicting **student placements** using a 
 
 ## Tools & Technologies
 
-- **Language**: Python  
-- **Libraries**: Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn  
-- **Model**: Random Forest Classifier  
-- **IDE**: Jupyter Notebook / VS Code  
+- Language: Python  
+- Libraries: Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn  
+- Model: Random Forest Classifier  
+- IDE: Goggle collab Notebook / VS Code  
 
 ---
 
@@ -52,11 +52,11 @@ Key visualizations created:
 - Internship and project impact on placement
 
 Combined visual summary of all plots saved as:  
-`placement_eda_combined_plot.png`
+<a herf ="https://github.com/Poorvigupta1013/Placement-Prediction-Data-Analytics-Project/blob/main/EDA%20image%20of%20Placement%20dataset">View visual</a>
 
 ---
 
-## 🧠 Model Training
+## Model Training
 
 - Features were encoded using `LabelEncoder` where necessary.
 - Used `RandomForestClassifier` for classification.
@@ -68,7 +68,7 @@ Combined visual summary of all plots saved as:
 
 ---
 
-## 📈 Results
+## Results
 
 - The model was able to accurately predict student placement.
 - Key influencing factors identified:
@@ -79,7 +79,7 @@ Combined visual summary of all plots saved as:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 placement-prediction/
@@ -95,7 +95,7 @@ placement-prediction/
 
 ---
 
-## 🚀 Future Enhancements
+## Future Enhancements
 
 - Try different ML models (Logistic Regression, XGBoost, etc.)
 - Add Streamlit or Flask-based web app for interactive prediction
@@ -103,12 +103,10 @@ placement-prediction/
 
 ---
 
-## 🤝 Contributions
+## Contributions
 
 Contributions are welcome! If you'd like to add new features, suggest improvements, or report bugs, feel free to open an issue or submit a pull request.
 
 ---
 
-## 🔗 Connect with Me
 
-If you're interested in collaborating or discussing similar projects, connect with me on [LinkedIn](#) or check out more on my [GitHub](#)!
